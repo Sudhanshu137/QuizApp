@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="home_quiz">Home_Quiz_pic</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="QuizApp">QuizApp</string>
+    <string name="create_new_account"><u>Create New Account</u></string>
+    <string name="Login">Login</string>
+    <string name="reenterpassword">Re-enter your password</string>
+    <string name="signup">SignUp</string>
+    <string name="Already_an_user"><u>Already an User</u></string>
+    <string name="question">What is capital of India?</string>
+    <string name="progressbar">0/10</string>
+    <string name="option1">New Delhi</string>
+    <string name="Submit">Submit</string>
+    <string name="heyCongratulations">Hey, Congratulation</string>
+    <string name="yourScoreis">Your Score is 9 out of 10</string>
+    <string name="Finish">Finish</string>
+
+</resources>
